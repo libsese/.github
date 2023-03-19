@@ -11,7 +11,7 @@ P.S. It's more like a bunch of toys to me at the moment.
   - [x] utf-8 string support
   - [x] ini util
   - [x] ~~concurrent date struct~~
-  - [x] base i/o intferace
+  - [x] base i/o interface
   - [x] log module
   - [x] ssl support
   - [x] shared library loader
