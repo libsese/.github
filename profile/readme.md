@@ -23,17 +23,18 @@ P.S. It's more like a bunch of toys to me at the moment.
   - [x] file notifier
   - [x] zlib import
   - [x] process api
+  - [x] network interface util
   - [ ] modularization for cpp20
   - [ ] i18n support
   - [ ] more env info
   - [ ] http2 support (maybe
   - [ ] wiki (maybe
   - and so on...
-- sese.db
+- sese.db (planning refactor)
   - [x] sqlite support
   - [x] mariadb support
   - [x] mysql support
   - [ ] change to use vcpkg
   - [ ] more docs
 - sese.plugin
-  - comeing soon...
+  - stable done
