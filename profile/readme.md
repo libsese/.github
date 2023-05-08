@@ -1,40 +1,14 @@
-## Welcome to libsese's homepage
+### libsese Open Source
 
-At present, libsese focuses on developing a series of cross-platform components, 
-and provides a convenient dependency import method combined with ~~CMake 3.14 FetchContent~~ feature.
-Now change to using vcpkg.
+#### who we are?
 
-P.S. It's more like a bunch of toys to me at the moment.
+We are developers for the libsese open source project. The project includes libraries and frameworks. The plan is to make fun toys, cool demos and anything that inspires you.
 
-## About plan
-- sese.core
-  - [x] utf-8 string support
-  - [x] ini util
-  - [x] ~~concurrent date struct~~
-  - [x] base i/o interface
-  - [x] log module
-  - [x] ssl support
-  - [x] shared library loader
-  - [x] shared memory
-  - [x] net framework
-  - [x] message digest
-  - [x] xml util
-  - [x] json util
-  - [x] file notifier
-  - [x] zlib import
-  - [x] process api
-  - [x] network interface util
-  - [ ] modularization for cpp20
-  - [ ] i18n support
-  - [ ] more env info
-  - [ ] http2 support (maybe
-  - [ ] wiki (maybe
-  - and so on...
-- sese.db (planning refactor)
-  - [x] sqlite support
-  - [x] mariadb support
-  - [x] mysql support
-  - [ ] change to use vcpkg
-  - [ ] more docs
-- sese.plugin
-  - stable done
+#### where is this?
+
+This is the platform where we efficiently manage and house our code as well as our documentation, which is personal and largely open source with Apache 2.0 licenses.
+
+#### any question?
+
+- for the libraries or frameworks programing, try to see [documents](https://libsese.github.io/sese.docs/#/).
+- for anything else, you can prefer to contact us.
