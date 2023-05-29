@@ -10,5 +10,5 @@ This is the platform where we efficiently manage and house our code as well as o
 
 #### any question?
 
-- for the libraries or frameworks programing, try to see [documents](https://libsese.github.io/sese.docs/#/).
+- for the libraries or frameworks programing, try to read the [documents](https://libsese.github.io/sese.docs/#/).
 - for anything else, you can prefer to contact us.
